@@ -93,6 +93,7 @@ header {
   float: left;
   margin-bottom: 30px;
   background-color: skyblue;
+  display: flex;
 }
 
 h1 {
