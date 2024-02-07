@@ -119,13 +119,16 @@ main {
 section {
   background-color: skyblue;
   display: flex;
+  flex-wrap: wrap;
 }
 
 h3 {
   font-family: "Bebas Neue", sans-serif;
   font-size: 2rem;
+  /*
   display: block;
   float: left;
+  */
   width: 100%;
   margin-bottom: 0px;
 }
