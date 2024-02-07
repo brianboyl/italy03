@@ -42,12 +42,16 @@ body {
 }
 
 .breadcrumbs li {
-  display: inline-block;
+  display: inline-flex;
+  margin: 0;
+  margin-right: 0.5rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 .breadcrumbs li::after {
   content: ">";
-  padding: 0 0.5em;
+  margin-left: 0.5em;
 }
 
 .breadcrumbs li:last-child::after {
