@@ -9,6 +9,7 @@ body {
   margin-right: auto;
   margin-left: auto;
   max-width: 1100px;
+  display: flex;
 }
 
 /* Top navigation bar */
