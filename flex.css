@@ -118,6 +118,7 @@ main {
 
 section {
   background-color: skyblue;
+  display: flex;
 }
 
 h3 {
