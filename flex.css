@@ -112,10 +112,12 @@ h1 {
 }
 
 main {
+  display: flex;
 }
 
 section {
-  clear: both;
+  /*clear: both;*/
+  background-color: skyblue;
 }
 
 h3 {
