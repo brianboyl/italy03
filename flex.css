@@ -113,10 +113,10 @@ h1 {
 
 main {
   display: flex;
+  flex-direction: column;
 }
 
 section {
-  /*clear: both;*/
   background-color: skyblue;
 }
 
