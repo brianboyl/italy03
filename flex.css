@@ -18,7 +18,7 @@ body {
   /*display: block;*/
   width: 100%;
   padding: 0;
-  text-align: right;
+  /*text-align: right;*/
   background-color: darkgray;
   display: flex;
 }
@@ -31,6 +31,7 @@ body {
   display: inline-block;
   float: left;
   */
+  width: 50%;
   padding: 0;
   margin-left: 0.5rem;
   margin-top: 0.5rem;
@@ -66,6 +67,7 @@ body {
 
 /* main navigation menu */
 .main_nav {
+  width: 50%;
   padding: 0;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
