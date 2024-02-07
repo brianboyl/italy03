@@ -12,7 +12,6 @@ body {
 }
 
 /* Top navigation bar */
-
 .navbar {
   display: block;
   width: 100%;
@@ -22,7 +21,6 @@ body {
 }
 
 /* Breadcrumb Menu */
-
 .breadcrumbs {
   color: white;
   font-style: italic;
@@ -61,7 +59,6 @@ body {
 }
 
 /* main navigation menu */
-
 .main_nav {
   padding: 0;
   margin-top: 0.5rem;
@@ -93,6 +90,7 @@ header {
   margin-bottom: 30px;
   display: flex;
   flex-direction: column;
+  background-color: cadetblue;
 }
 
 h1 {
@@ -113,6 +111,7 @@ h1 {
 }
 
 main {
+  background-color: seagreen;
 }
 
 section {
