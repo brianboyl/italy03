@@ -10,6 +10,7 @@ body {
   margin-left: auto;
   max-width: 1100px;
   display: flex;
+  flex-direction: column;
 }
 
 /* Top navigation bar */
